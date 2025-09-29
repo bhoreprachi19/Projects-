@@ -1,2 +1,4 @@
-# Pizza-Sales-Dashboard
-Designed and implemented a Pizza Sales Analysis Dashboard using Power BI. Applied data cleaning and visualization techniques to deliver actionable insights for sales growth. Designed slicers and filters for category, size, and time period to make the dashboard fully dynamic.
+# Pizza-Sales And Restaurant Order Dashboards
+1) Pizza Sales : Tools Used : Power Bi, Excel, MySQL. Designed and implemented a Pizza Sales Analysis Dashboard using Power BI. Applied data cleaning and visualization techniques to deliver actionable insights for sales growth. Designed slicers and filters for category, size, and time period to make the dashboard fully dynamic.
+
+2) Restaurant Order : Tools Used : Power Bi , Excel , MySQL. Designed and developed an interactive Power BI dashboard to analyze restaurant order data, including sales trends, top-selling food items, and peak order times. Designed and developed an interactive Power BI dashboard to analyze restaurant order data, including sales trends, top-selling food items, customer preferences, and peak order times. Applied filters and drill-through features to enable dynamic.
